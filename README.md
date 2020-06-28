@@ -1,3 +1,5 @@
+![Ruby CI](https://github.com/Wizyma/ruby-test/workflows/Ruby%20CI/badge.svg)
+
 # Instructions for applicant
 
 ## Description
